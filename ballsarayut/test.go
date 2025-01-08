@@ -2,6 +2,9 @@ package ballsarayut
 import (
 	"fmt"
 )
+func genarateTest(){
+	fmt.Println("Hello Test")
+}
 func SayTest(){
-	fmt.Println("Hello, Test")
+	genarateTest()
 }
